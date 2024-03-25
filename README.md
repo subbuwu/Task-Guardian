@@ -7,7 +7,7 @@
 - **Role-Based Access Control**: Admins, managers, and users have distinct roles and permissions.
 - **Task Assignment**: Managers can easily assign tasks to team members.
 
-### Getting Started 🚀
+### Getting Started 🛠️
 
 To start using TaskGuardian:
 
