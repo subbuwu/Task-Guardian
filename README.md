@@ -6,10 +6,6 @@
 
 - **Role-Based Access Control**: Admins, managers, and users have distinct roles and permissions.
 - **Task Assignment**: Managers can easily assign tasks to team members.
-- **Intuitive Interface**: User-friendly interface for effortless task management.
-- **Real-Time Updates**: Stay informed with instant notifications on task changes.
-- **Customizable Workflows**: Adapt TaskGuardian to match your unique workflows.
-- **Mobile Accessibility**: Access TaskGuardian anytime, anywhere with our mobile app.
 
 ### Getting Started 🚀
 
